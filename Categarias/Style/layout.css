@@ -1,0 +1,64 @@
+#Noticias{
+    width: 100%;
+    border-radius: 5px;
+}
+#background-slide-1{
+    height: 450px;
+    background-image: url(../imagens/background-slide.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#background-slide-2{
+    height: 450px;
+    background-image: url(../imagens/Slide-back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#background-slide-3{
+    height: 450px;
+    background-image: url(../imagens/slide-back02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.item{
+    background: #ccc;
+    width: 360px;
+    height: 360px;
+}
+#menu{
+    display: none;
+}
+#margin{
+    margin-left: 12vw;
+}
+.btn-black{
+    background: black;
+    color: white;
+    border-bottom: 1px solid white;
+    width: 10vw;
+    height: 7vh;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+.input-jum{
+    width: 20vw;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 32%;
+}
+.jumbotron-header{
+    text-align: center;
+    margin-bottom: 2%;
+}
+.button{
+    width: 5vw;
+    height: 8vh;
+    background: #ccc;
+    margin-top: 5%;
+}
+.button-slide{
+    width: 5vw;
+    height: 8vh;
+    background: #ccc;
+    margin-top: 12%;
+}
